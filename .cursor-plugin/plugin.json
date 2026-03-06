@@ -1,0 +1,33 @@
+{
+  "name": "principal-engineer",
+  "displayName": "Principal Engineer",
+  "version": "1.0.0",
+  "description": "Spawns parallel principal-engineer-level agents for comprehensive code review and automated remediation. Four reviewers audit architecture, security, performance, and quality — then five fixers resolve all critical/high issues with test-backed verification.",
+  "author": {
+    "name": "Sharad",
+    "email": ""
+  },
+  "homepage": "https://github.com/sharad/cursor-principal-engineer",
+  "repository": "https://github.com/sharad/cursor-principal-engineer",
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "keywords": [
+    "code-review",
+    "principal-engineer",
+    "security-audit",
+    "performance",
+    "architecture",
+    "remediation",
+    "multi-agent",
+    "quality"
+  ],
+  "category": "developer-tools",
+  "tags": [
+    "review",
+    "audit",
+    "fix",
+    "quality",
+    "security"
+  ],
+  "skills": "./skills/"
+}
